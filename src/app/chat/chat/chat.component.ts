@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
+// Use routers in Angular
 @Component({
   selector: 'chat',
   templateUrl: './chat.component.html',

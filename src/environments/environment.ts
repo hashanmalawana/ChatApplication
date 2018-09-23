@@ -1,4 +1,5 @@
-//handle the environment
+// Handle the environment
+// Import the API
 export const environment = {
   production: false,
   dialogflow: {
