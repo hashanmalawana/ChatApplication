@@ -4,7 +4,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { ChatModule } from './chat/chat.module';
 
-
+//module import here
 @NgModule({
   declarations: [
     AppComponent
@@ -17,3 +17,4 @@ import { ChatModule } from './chat/chat.module';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+//handle the settings
